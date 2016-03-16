@@ -10,7 +10,7 @@ namespace Githubtest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Github");
+            Console.WriteLine("Hi Github. Triggered automatic build");
         }
     }
 }
